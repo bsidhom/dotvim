@@ -50,3 +50,4 @@ let vimclojure#WantNailgun=1
 " https://github.com/altercation/vim-colors-solarized
 " https://github.com/vim-scripts/VimClojure.git
 " https://github.com/Lokaltog/vim-powerline.git
+" https://github.com/jamessan/vim-gnupg.git
