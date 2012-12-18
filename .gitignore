@@ -1,4 +1,6 @@
 .*.swp
 
-bundle
 .netrwhist
+
+/bundle
+/spell/*.spl
