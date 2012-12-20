@@ -9,7 +9,14 @@ endif
 syntax on
 filetype plugin indent on
 
-colorscheme neverland-darker
+let g:solarized_termcolors=256
+
+if has('gui_running')
+    set background=light
+else
+    set background=dark
+endif
+colorscheme solarized
 
 " indent and expansion rules
 set expandtab
