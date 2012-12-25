@@ -9,15 +9,6 @@ endif
 syntax on
 filetype plugin indent on
 
-let g:solarized_termcolors=256
-
-if has('gui_running')
-    set background=light
-else
-    set background=dark
-endif
-colorscheme solarized
-
 " indent and expansion rules
 set smartindent
 set expandtab
@@ -38,6 +29,17 @@ map Y y$
 
 " set spell settings (:spell on still must be used to enable per-buffer)
 set spelllang=en_us
+
+" colorscheme settings
+if $TERMINAL_SOLARIZED != 1
+    let g:solarized_termcolors=256
+endif
+if has('gui_running')
+    set background=light
+else
+    set background=dark
+endif
+colorscheme solarized
 
 " latex suite settings
 let g:Tex_DefaultTargetFormat='pdf'
