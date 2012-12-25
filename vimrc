@@ -19,6 +19,7 @@ endif
 colorscheme solarized
 
 " indent and expansion rules
+set smartindent
 set expandtab
 set shiftwidth=4
 set tabstop=4
