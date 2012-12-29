@@ -2,5 +2,5 @@
 
 .netrwhist
 
-/bundle
+/bundle/vim-*
 /spell/*.spl
