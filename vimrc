@@ -45,20 +45,14 @@ colorscheme solarized
 let g:Tex_DefaultTargetFormat='pdf'
 let g:tex_flavor='latex'
 
-" VimClojure settings
-let vimclojure#HighlightBuiltins=1
-let vimclojure#HighlightContrib=1
-let vimclojure#DynamicHighlighting=1
-let vimclojure#ParenRainbow=1
-let vimclojure#WantNailgun=1
-"let vimclojure#NailgunClient=s:vimdir . "/bundle/vim-clojure/bin/ng-server"
-
 " PLUGIN REPOSITORIES
 " https://github.com/tpope/vim-pathogen.git
 " https://github.com/bsidhom/vim-latex-suite.git
 " https://github.com/vim-scripts/guicolorscheme.vim.git
 " https://github.com/altercation/vim-colors-solarized
-" https://github.com/vim-scripts/VimClojure.git
 " https://github.com/Lokaltog/vim-powerline.git
 " https://github.com/jamessan/vim-gnupg.git
 " https://github.com/sukima/xmledit.git
+" https://github.com/guns/vim-clojure-static.git
+" https://github.com/tpope/vim-classpath.git
+" https://github.com/tpope/vim-foreplay.git
