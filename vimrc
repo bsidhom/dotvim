@@ -30,6 +30,9 @@ map Y y$
 " set spell settings (:spell on still must be used to enable per-buffer)
 set spelllang=en_us
 
+" filetype associations
+autocmd BufRead,BufNewFile *.gradle set filetype=groovy
+
 " colorscheme settings
 if $TERMINAL_SOLARIZED != 1
     let g:solarized_termcolors=256
