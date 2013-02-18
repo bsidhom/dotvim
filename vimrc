@@ -30,6 +30,22 @@ map Y y$
 " set spell settings (:spell on still must be used to enable per-buffer)
 set spelllang=en_us
 
+" viminfo settings
+" save marks for 10 files, 100 lines apiece, 50 lines of command history
+set viminfo='10,\"100,:50
+
+function! ResCur()
+    if line("'\"") <= line("$")
+        normal! g`"
+        return 1
+    endif
+endfunction
+
+augroup resCur
+    autocmd!
+    autocmd BufWinEnter * call ResCur()
+augroup END
+
 " filetype associations
 autocmd BufRead,BufNewFile *.gradle set filetype=groovy
 
