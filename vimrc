@@ -66,6 +66,7 @@ let g:tex_flavor='latex'
 
 " PLUGIN REPOSITORIES
 " https://github.com/tpope/vim-pathogen.git
+" https://github.com/scrooloose/nerdtree.git
 " https://github.com/bsidhom/vim-latex-suite.git
 " https://github.com/vim-scripts/guicolorscheme.vim.git
 " https://github.com/altercation/vim-colors-solarized
