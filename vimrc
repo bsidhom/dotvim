@@ -75,3 +75,4 @@ let g:tex_flavor='latex'
 " https://github.com/guns/vim-clojure-static.git
 " https://github.com/tpope/vim-classpath.git
 " https://github.com/tpope/vim-foreplay.git
+" https://github.com/sjas/haskellmode-vim.git
