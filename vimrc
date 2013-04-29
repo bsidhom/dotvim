@@ -1,8 +1,10 @@
 call pathogen#infect()
 
 if has('unix')
+    let s:unix=1
     let s:vimdir=expand("$HOME/.vim")
 else
+    let s:unix=0
     let s:vimdir=expand("$USERPROFILE/vimfiles")
 endif
 
@@ -63,6 +65,13 @@ colorscheme solarized
 " latex suite settings
 let g:Tex_DefaultTargetFormat='pdf'
 let g:tex_flavor='latex'
+
+" haskellmode settings
+if s:unix
+    let g:haddock_browser = "firefox"
+else
+    let g:haddock_browser = ""
+endif
 
 " PLUGIN REPOSITORIES
 " https://github.com/tpope/vim-pathogen.git
