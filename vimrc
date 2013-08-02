@@ -22,9 +22,15 @@ set textwidth=80
 " miscellaneous options
 set number
 set modeline
+set shellslash
+set backspace=indent,eol,start
+
+" search options
 set hlsearch
 set incsearch
-set shellslash
+
+" use utf-8 encoding by default
+set encoding=utf-8
 
 " make Y behavior consistent with other capital motions
 map Y y$
