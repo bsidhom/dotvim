@@ -88,6 +88,7 @@ endif
 " https://github.com/Lokaltog/vim-powerline.git
 " https://github.com/jamessan/vim-gnupg.git
 " https://github.com/sukima/xmledit.git
+" https://github.com/mattn/emmet-vim.git
 " https://github.com/guns/vim-clojure-static.git
 " https://github.com/tpope/vim-classpath.git
 " https://github.com/tpope/vim-foreplay.git
