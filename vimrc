@@ -93,3 +93,4 @@ endif
 " https://github.com/tpope/vim-classpath.git
 " https://github.com/tpope/vim-foreplay.git
 " https://github.com/sjas/haskellmode-vim.git
+" https://github.com/JuliaLang/julia-vim.git
