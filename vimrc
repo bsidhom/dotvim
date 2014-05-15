@@ -78,19 +78,3 @@ if s:unix
 else
     let g:haddock_browser = ""
 endif
-
-" PLUGIN REPOSITORIES
-" https://github.com/tpope/vim-pathogen.git
-" https://github.com/scrooloose/nerdtree.git
-" https://github.com/bsidhom/vim-latex-suite.git
-" https://github.com/vim-scripts/guicolorscheme.vim.git
-" https://github.com/altercation/vim-colors-solarized
-" https://github.com/Lokaltog/vim-powerline.git
-" https://github.com/jamessan/vim-gnupg.git
-" https://github.com/sukima/xmledit.git
-" https://github.com/mattn/emmet-vim.git
-" https://github.com/guns/vim-clojure-static.git
-" https://github.com/tpope/vim-classpath.git
-" https://github.com/tpope/vim-foreplay.git
-" https://github.com/sjas/haskellmode-vim.git
-" https://github.com/JuliaLang/julia-vim.git
