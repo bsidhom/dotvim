@@ -58,12 +58,16 @@ augroup END
 autocmd BufRead,BufNewFile *.gradle set filetype=groovy
 
 " colorscheme settings
-if $TERMINAL_SOLARIZED != 1
-    let g:solarized_termcolors=256
-endif
 if has('gui_running')
     set background=light
 else
+    if $TERMINAL_SOLARIZED != 1
+        " terminal does not support native solarized colors
+        let g:solarized_termcolors=256
+    else
+        " reveal terminal background if it supports solarized theme
+        let g:solarized_termtrans=1
+    endif
     set background=dark
 endif
 colorscheme solarized
