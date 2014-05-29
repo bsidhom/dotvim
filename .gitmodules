@@ -28,9 +28,6 @@
 [submodule "bundle/vim-classpath"]
 	path = bundle/vim-classpath
 	url = https://github.com/tpope/vim-classpath.git
-[submodule "bundle/vim-foreplay"]
-	path = bundle/vim-foreplay
-	url = https://github.com/tpope/vim-foreplay.git
 [submodule "bundle/vim-haskellmode"]
 	path = bundle/vim-haskellmode
 	url = https://github.com/sjas/haskellmode-vim.git
@@ -44,3 +41,6 @@
 	path = bundle/vim-powerline
 	url = https://github.com/Lokaltog/powerline.git
 	branch = develop
+[submodule "bundle/vim-fireplace"]
+	path = bundle/vim-fireplace
+	url = https://github.com/tpope/vim-fireplace.git
