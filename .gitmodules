@@ -1,49 +1,65 @@
 [submodule "bundle/vim-scala"]
 	path = bundle/vim-scala
 	url = https://github.com/derekwyatt/vim-scala
+    ignore = untracked
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized
+    ignore = untracked
 [submodule "bundle/vim-nerdtree"]
 	path = bundle/vim-nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+    ignore = untracked
 [submodule "bundle/vim-latex-suite"]
 	path = bundle/vim-latex-suite
 	url = https://github.com/bsidhom/vim-latex-suite.git
+    ignore = untracked
 [submodule "bundle/vim-guicolorscheme"]
 	path = bundle/vim-guicolorscheme
 	url = https://github.com/vim-scripts/guicolorscheme.vim.git
+    ignore = untracked
 [submodule "bundle/vim-gnupg"]
 	path = bundle/vim-gnupg
 	url = https://github.com/jamessan/vim-gnupg.git
+    ignore = untracked
 [submodule "bundle/vim-xmledit"]
 	path = bundle/vim-xmledit
 	url = https://github.com/sukima/xmledit.git
+    ignore = untracked
 [submodule "bundle/vim-emmet"]
 	path = bundle/vim-emmet
 	url = https://github.com/mattn/emmet-vim.git
+    ignore = untracked
 [submodule "bundle/vim-clojure-static"]
 	path = bundle/vim-clojure-static
 	url = https://github.com/guns/vim-clojure-static.git
+    ignore = untracked
 [submodule "bundle/vim-classpath"]
 	path = bundle/vim-classpath
 	url = https://github.com/tpope/vim-classpath.git
+    ignore = untracked
 [submodule "bundle/vim-haskellmode"]
 	path = bundle/vim-haskellmode
 	url = https://github.com/sjas/haskellmode-vim.git
+    ignore = untracked
 [submodule "bundle/vim-julia"]
 	path = bundle/vim-julia
 	url = https://github.com/JuliaLang/julia-vim.git
+    ignore = untracked
 [submodule "bundle/vim-git"]
 	path = bundle/vim-git
 	url = https://github.com/tpope/vim-git.git
+    ignore = untracked
 [submodule "bundle/vim-powerline"]
 	path = bundle/vim-powerline
 	url = https://github.com/Lokaltog/powerline.git
 	branch = develop
+    ignore = untracked
 [submodule "bundle/vim-fireplace"]
 	path = bundle/vim-fireplace
 	url = https://github.com/tpope/vim-fireplace.git
+    ignore = untracked
 [submodule "bundle/vim-paredit"]
 	path = bundle/vim-paredit
 	url = https://github.com/vim-scripts/paredit.vim.git
+    ignore = untracked
