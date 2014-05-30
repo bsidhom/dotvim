@@ -44,3 +44,6 @@
 [submodule "bundle/vim-fireplace"]
 	path = bundle/vim-fireplace
 	url = https://github.com/tpope/vim-fireplace.git
+[submodule "bundle/vim-paredit"]
+	path = bundle/vim-paredit
+	url = https://github.com/vim-scripts/paredit.vim.git
