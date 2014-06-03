@@ -18,7 +18,7 @@ set shiftwidth=4
 set tabstop=4
 set smarttab
 set textwidth=80
-set colorcolumn=81
+set colorcolumn=+1
 
 " miscellaneous options
 set number
