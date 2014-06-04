@@ -19,6 +19,7 @@ Drumheller
 Edmonds
 Fraassen
 Fraassen's
+FS
 Fulkerson
 Hacking's
 Hadoop
@@ -45,7 +46,9 @@ minima
 monumentalism
 Nicod
 Nicod's
+nullable
 numpy
+offline
 Rasula
 reindexed
 Rodchenko
@@ -57,6 +60,7 @@ Semenko's
 Sidhom
 sklearn
 songlike
+SQL
 subsolutions
 SVM
 SVMs
@@ -69,3 +73,4 @@ UUID
 UW
 versioning
 vertices
+workflow
