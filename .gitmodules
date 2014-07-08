@@ -66,3 +66,6 @@
 [submodule "bundle/vim-visual-increment"]
 	path = bundle/vim-visual-increment
 	url = https://github.com/triglav/vim-visual-increment.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
