@@ -26,7 +26,6 @@ Hadoop
 HDFS
 Hempel
 Hempel's
-Hempel's
 i.e.
 JSON
 Kamensky
@@ -36,6 +35,7 @@ Karmarkar's
 Kelso
 Kourany
 LabView
+LAPACK
 Laynor
 literality
 Maland
@@ -50,6 +50,7 @@ nullable
 numpy
 offline
 Rasula
+regressor
 reindexed
 Rodchenko
 Rodchenko's
@@ -64,6 +65,8 @@ SQL
 subsolutions
 SVM
 SVMs
+tarball
+tarballs
 theremin
 Timeline
 Tommaso
