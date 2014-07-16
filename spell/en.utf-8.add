@@ -2,6 +2,7 @@ assertibility
 backend
 Beauduin
 Chilvers
+classpath
 Cogan
 confirmable
 constructivism
@@ -39,6 +40,7 @@ LabView
 LAPACK
 Laynor
 literality
+LVM
 Maland
 Marinetti
 Marinetti's
@@ -50,11 +52,13 @@ Nicod's
 nullable
 numpy
 offline
+online
 Rasula
 regressor
 reindexed
 Rodchenko
 Rodchenko's
+SBT
 scipy
 Sellars
 Semenko
@@ -63,6 +67,7 @@ Sidhom
 sklearn
 songlike
 SQL
+subprojects
 subsolutions
 SVM
 SVMs
@@ -77,4 +82,6 @@ UUID
 UW
 versioning
 vertices
+virtualize
+virtualized
 workflow
