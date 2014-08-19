@@ -1,3 +1,4 @@
+let g:pathogen_disabled = ["vim-pathogen"]
 call pathogen#infect()
 
 if has('unix')
