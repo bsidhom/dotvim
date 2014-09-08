@@ -23,6 +23,7 @@ set colorcolumn=+1
 
 " miscellaneous options
 set number
+set ruler
 set modeline
 set shellslash
 set backspace=indent,eol,start
