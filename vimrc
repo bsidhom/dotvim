@@ -88,3 +88,6 @@ if s:unix
 else
     let g:haddock_browser = ""
 endif
+
+" airline settings
+let g:airline_theme = "tomorrow"
