@@ -27,6 +27,8 @@ set ruler
 set modeline
 set shellslash
 set backspace=indent,eol,start
+set laststatus=2
+set wildmenu
 
 " search options
 set hlsearch
