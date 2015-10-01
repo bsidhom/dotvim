@@ -93,3 +93,10 @@ endif
 
 " airline settings
 let g:airline_theme = "tomorrow"
+
+" vim-signify settings
+" Solarized does not properly set SignColumn. Since this is used by Sy to
+" indicate unchanged lines, it should be cleared to play well with the rest of
+" the colorscheme.
+highlight clear SignColumn
+let g:signify_vcs_list = ['git', 'hg']
