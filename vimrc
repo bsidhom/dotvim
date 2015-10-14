@@ -100,3 +100,6 @@ let g:airline_theme = "tomorrow"
 " the colorscheme.
 highlight clear SignColumn
 let g:signify_vcs_list = ['git', 'hg']
+
+" ctrlp settings
+let g:ctrlp_working_path_mode = 0
