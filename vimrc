@@ -84,6 +84,9 @@ let g:tex_flavor='latex'
 " paredit interferes with Julia (.jl) files; this is a workable fix for now
 let g:paredit_disable_lisp='1'
 
+" markdown settings
+let g:vim_markdown_folding_disabled = 1
+
 " haskellmode settings
 if s:unix
     let g:haddock_browser = "firefox"
