@@ -85,9 +85,6 @@
 [submodule "bundle/vim-fish"]
 	path = bundle/vim-fish
 	url = https://github.com/dag/vim-fish.git
-[submodule "bundle/kotlin-vim"]
-	path = bundle/kotlin-vim
-	url = https://github.com/udalov/kotlin-vim
 [submodule "bundle/vim-minizinc"]
 	path = bundle/vim-minizinc
 	url = https://github.com/vale1410/vim-minizinc.git
