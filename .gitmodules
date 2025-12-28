@@ -14,9 +14,6 @@
 	path = bundle/vim-fireplace
 	url = https://github.com/tpope/vim-fireplace.git
     ignore = untracked
-[submodule "bundle/vim-visual-increment"]
-	path = bundle/vim-visual-increment
-	url = https://github.com/triglav/vim-visual-increment.git
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/bling/vim-airline
