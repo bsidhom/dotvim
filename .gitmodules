@@ -2,10 +2,6 @@
 	path = bundle/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized
     ignore = untracked
-[submodule "bundle/vim-nerdtree"]
-	path = bundle/vim-nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
-    ignore = untracked
 [submodule "bundle/vim-guicolorscheme"]
 	path = bundle/vim-guicolorscheme
 	url = https://github.com/vim-scripts/guicolorscheme.vim.git
