@@ -18,10 +18,6 @@
 	path = bundle/vim-gnupg
 	url = https://github.com/jamessan/vim-gnupg.git
     ignore = untracked
-[submodule "bundle/vim-xmledit"]
-	path = bundle/vim-xmledit
-	url = https://github.com/sukima/xmledit.git
-    ignore = untracked
 [submodule "bundle/vim-julia"]
 	path = bundle/vim-julia
 	url = https://github.com/JuliaLang/julia-vim.git
