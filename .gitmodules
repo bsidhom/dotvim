@@ -42,10 +42,6 @@
 	path = bundle/vim-julia
 	url = https://github.com/JuliaLang/julia-vim.git
     ignore = untracked
-[submodule "bundle/vim-git"]
-	path = bundle/vim-git
-	url = https://github.com/tpope/vim-git.git
-    ignore = untracked
 [submodule "bundle/vim-fireplace"]
 	path = bundle/vim-fireplace
 	url = https://github.com/tpope/vim-fireplace.git
