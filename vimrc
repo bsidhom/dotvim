@@ -9,6 +9,10 @@ else
     let s:vimdir=expand("$USERPROFILE/vimfiles")
 endif
 
+" Many syntax highlighters require efficient regexp due to pathological
+" specifications. Setting this to 0 chooses NFA (the new mode) by default and
+" falls back to the old engine if necessary.
+set regexpengine=0
 syntax on
 filetype plugin indent on
 
