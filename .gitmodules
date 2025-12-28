@@ -14,10 +14,6 @@
 	path = bundle/vim-fireplace
 	url = https://github.com/tpope/vim-fireplace.git
     ignore = untracked
-[submodule "bundle/vim-paredit"]
-	path = bundle/vim-paredit
-	url = https://github.com/vim-scripts/paredit.vim.git
-    ignore = untracked
 [submodule "bundle/vim-visual-increment"]
 	path = bundle/vim-visual-increment
 	url = https://github.com/triglav/vim-visual-increment.git
