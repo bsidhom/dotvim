@@ -26,10 +26,6 @@
 	path = bundle/vim-xmledit
 	url = https://github.com/sukima/xmledit.git
     ignore = untracked
-[submodule "bundle/vim-classpath"]
-	path = bundle/vim-classpath
-	url = https://github.com/tpope/vim-classpath.git
-    ignore = untracked
 [submodule "bundle/vim-haskellmode"]
 	path = bundle/vim-haskellmode
 	url = https://github.com/sjas/haskellmode-vim.git
