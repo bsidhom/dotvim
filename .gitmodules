@@ -51,6 +51,3 @@
 [submodule "bundle/vim-airline-themes"]
 	path = bundle/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
-[submodule "bundle/vim-minizinc"]
-	path = bundle/vim-minizinc
-	url = https://github.com/vale1410/vim-minizinc.git
