@@ -6,10 +6,6 @@
 	path = bundle/vim-nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
     ignore = untracked
-[submodule "bundle/vim-latex-suite"]
-	path = bundle/vim-latex-suite
-	url = https://github.com/bsidhom/vim-latex-suite.git
-    ignore = untracked
 [submodule "bundle/vim-guicolorscheme"]
 	path = bundle/vim-guicolorscheme
 	url = https://github.com/vim-scripts/guicolorscheme.vim.git
