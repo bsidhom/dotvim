@@ -81,10 +81,6 @@ else
 endif
 colorscheme solarized
 
-" latex suite settings
-let g:Tex_DefaultTargetFormat='pdf'
-let g:tex_flavor='latex'
-
 " paredit interferes with Julia (.jl) files; this is a workable fix for now
 let g:paredit_disable_lisp='1'
 
