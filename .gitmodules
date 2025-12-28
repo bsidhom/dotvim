@@ -6,10 +6,6 @@
 	path = bundle/vim-gnupg
 	url = https://github.com/jamessan/vim-gnupg.git
     ignore = untracked
-[submodule "bundle/vim-fireplace"]
-	path = bundle/vim-fireplace
-	url = https://github.com/tpope/vim-fireplace.git
-    ignore = untracked
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/bling/vim-airline
